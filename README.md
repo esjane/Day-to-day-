@@ -1,2 +1,2 @@
-# Day-to-day-
+# Day-to-day
 Introduction to computer
